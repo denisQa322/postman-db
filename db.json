@@ -102,5 +102,5 @@
       "itemsCount": 1
     }
   ],
-  "statuses": ["new", "in_progress", "ready", "completed"]
+  "statuses": [{"id":"1","name":"new"}, {"id":"2","name":"in_progress"},{ "id":"3", "name":"ready"}, {"id":"4","name":"completed"}]
 }
